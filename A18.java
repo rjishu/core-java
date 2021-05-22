@@ -10,6 +10,7 @@ class  A18
 	void m2(){
 
 	System.out.println("A m2");
+	System.out.println("B m2");
 }
 
 	void m3()
